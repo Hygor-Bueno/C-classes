@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\C#\FormsInWindow\bin\Debug\FormsInWindow.exe.config
+C:\Users\Administrator\Desktop\C#\FormsInWindow\bin\Debug\FormsInWindow.exe
+C:\Users\Administrator\Desktop\C#\FormsInWindow\bin\Debug\FormsInWindow.pdb
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Debug\FormsInWindow.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Debug\FormsInWindow.Form1.resources
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Debug\FormsInWindow.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Debug\FormsInWindow.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Debug\FormsInWindow.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Debug\FormsInWindow.exe
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Debug\FormsInWindow.pdb
+C:\Users\Administrator\Desktop\C#\FormsInWindow\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\C#\FormsInWindow\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Debug\FormsInWindow.csproj.CopyComplete
+C:\Users\Administrator\Desktop\C#\FormsInWindow\bin\Debug\FormsInWindow.exe.manifest
+C:\Users\Administrator\Desktop\C#\FormsInWindow\bin\Debug\FormsInWindow.application
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Debug\FormsInWindow.exe.manifest
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Debug\FormsInWindow.application

@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\C#\FormsInWindow\bin\Release\FormsInWindow.exe.config
+C:\Users\Administrator\Desktop\C#\FormsInWindow\bin\Release\FormsInWindow.exe
+C:\Users\Administrator\Desktop\C#\FormsInWindow\bin\Release\FormsInWindow.pdb
+C:\Users\Administrator\Desktop\C#\FormsInWindow\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\C#\FormsInWindow\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Release\FormsInWindow.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Release\FormsInWindow.Form1.resources
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Release\FormsInWindow.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Release\FormsInWindow.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Release\FormsInWindow.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Release\FormsInWindow.csproj.CopyComplete
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Release\FormsInWindow.exe
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Release\FormsInWindow.pdb
+C:\Users\Administrator\Desktop\C#\FormsInWindow\bin\Release\FormsInWindow.exe.manifest
+C:\Users\Administrator\Desktop\C#\FormsInWindow\bin\Release\FormsInWindow.application
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Release\FormsInWindow.exe.manifest
+C:\Users\Administrator\Desktop\C#\FormsInWindow\obj\Release\FormsInWindow.application
